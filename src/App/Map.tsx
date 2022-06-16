@@ -205,6 +205,7 @@ const Content = (props: Props) => {
         data-geolocate-control="on"
         data-marker="off"
         data-gesture-handling="off"
+        data-hash="on"
       ></div>
       {shop ?
         <Shop shop={shop} close={closeHandler} />
