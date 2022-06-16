@@ -36,7 +36,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "./",
+  "homepage": "https://naogify.github.io/pwamap-iframe/",
   "eslintConfig": {
     "extends": "react-app"
   },
